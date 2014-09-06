@@ -1,4 +1,1 @@
-work_logger
-===========
-
-a home made work logger
+An simple script to log how long I am working on distinct projects using a local mysql database
